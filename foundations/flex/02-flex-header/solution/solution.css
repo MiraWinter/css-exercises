@@ -9,6 +9,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  margin-left: 0px;
 }
 
 ul {
@@ -29,8 +30,8 @@ a {
 .header {
   padding: 8px;
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  /* align-items: center; */
+  /* justify-content: space-between; */
 }
 
 ul {
